@@ -1,0 +1,20 @@
+#map {
+  height: 100vh; /* Full screen height */
+  width: 100%; /* Full width */
+}
+.info.legend {
+  background: white;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  font-size: 12px;
+  line-height: 18px;
+  color: #555;;
+}
+.info.legend i {
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  margin-right: 8px;
+  opacity: 0.8;
+}
